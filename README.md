@@ -7,7 +7,7 @@ Nesse projeto o objetivo era reconstruir a página inicial do Netflix, no qual f
 
 Para este projeto parti do desafio inicial e adicionei algumas funcionalidades a mais como o rodapé com links e o menu dropdown.
 
-Link: https://anneraupp.github.io/netflix-clone/
+Link: https://anneraupp.github.io/clone-netflix/
 
 
 Tutora/Expert: https://github.com/felipeAguiarCode
